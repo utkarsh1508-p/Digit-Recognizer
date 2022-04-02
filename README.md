@@ -5,7 +5,8 @@ Implemented a Neural Network with 1 hidden layer having 100 activation units (ex
 
 ![image](https://user-images.githubusercontent.com/81741487/158324382-f460583b-fe08-430a-882f-56af367ad328.png)
 
-Result:
+**Result**
+
 Training set accuracy of 99.440000%
 
 Test set accuracy of 97.320000%  
